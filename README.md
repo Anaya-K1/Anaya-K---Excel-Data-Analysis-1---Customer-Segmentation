@@ -41,7 +41,9 @@ If you're interested in exploring the working file with pivot tables, slicers, a
 
 ## 🔗 Connect with Me
 
-- **LinkedIn**: [Anaya K](https://www.linkedin.com/in/anaya-k)  
+- **LinkedIn**: [Anaya K](
+www.linkedin.com/in/anaya-k-212141367
+)  
 - **GitHub**: [Anaya-K1](https://github.com/Anaya-K1)
 
 ---
