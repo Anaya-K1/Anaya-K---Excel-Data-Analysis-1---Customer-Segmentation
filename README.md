@@ -20,16 +20,21 @@ This project presents a **Customer Segmentation Dashboard** built entirely in **
 ---
 
 # Dashboard Preview
+I have provided only the preview of the file for your reference, as follows:
 
-![Customer Segmentation Dashboard](Dashboard_Thumbnail.jpg)
-
-📄 **[Click here to view full PDF version](Dashboard_Preview.pdf)**
+1. *Dashboard preview*
+     - PDF  https://github.com/Anaya-K1/Anaya-K---Excel-Data-Analysis-1---Customer-Segmentation/blob/main/Dashboard-Review%20PDF%20-Anaya-K1%20Github%20Excel%201%20-%20Customer_Segmentation.pdf
+     - JPEG https://github.com/Anaya-K1/Anaya-K---Excel-Data-Analysis-1---Customer-Segmentation/blob/main/Dashboard-Review%20JPG%20-Anaya-K1%20Github%20Excel%201%20-%20Customer_Segmentation.jpg
+  
+2. *Dataset review*
+     - PDF  https://github.com/Anaya-K1/Anaya-K---Excel-Data-Analysis-1---Customer-Segmentation/blob/main/Dataset%20PDF%20-Anaya-K1%20Github%20Excel%201%20-%20Customer_Segmentation.pdf
+     - JPEG https://github.com/Anaya-K1/Anaya-K---Excel-Data-Analysis-1---Customer-Segmentation/blob/main/Dataset%20JPG%20-Anaya-K1%20Github%20Excel%201%20-%20Customer_Segmentation.jpg
 
 ---
 
-## 📥 Access to Excel File
+## Access to Excel File
 
-> 🗂️ **The original Excel file will be provided upon request.**  
+> **The original Excel file will be provided upon request.**  
 If you're interested in exploring the working file with pivot tables, slicers, and calculations, feel free to connect.
 
 ---
@@ -41,5 +46,3 @@ If you're interested in exploring the working file with pivot tables, slicers, a
 
 ---
 
-## 🏷️ Tags
-`Excel Dashboard` • `Customer Segmentation` • `Data Analytics` • `Business Intelligence` • `Portfolio Project`
